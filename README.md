@@ -3,7 +3,7 @@
 ## **Deployment**
 The application is deployed on **Netlify**. You can access it using the following link:
 
-[Deployed Application](<deployed-link>)
+[Deployed Application](https://event-calendar-ojas-bhosale.netlify.app/)
 
 ## **Overview**
 The Dynamic Event Calendar Application is a modern, feature-rich calendar app built using **React.js** and styled with **shadcn** components. It allows users to efficiently manage events with an intuitive interface and advanced functionalities, such as event persistence, filtering, and seamless calendar navigation.
