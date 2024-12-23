@@ -1,7 +1,7 @@
 # Dynamic Event Calendar Application
 
 ## **Deployment**
-The application is deployed on **Vercel**. You can access it using the following link:
+The application is deployed on **Netlify**. You can access it using the following link:
 
 [Deployed Application](<deployed-link>)
 
@@ -54,51 +54,43 @@ The Dynamic Event Calendar Application is a modern, feature-rich calendar app bu
    ```bash
    git clone <repository-link>
    cd <repository-folder>
-Install dependencies:
 
-bash
-Copy code
-npm install
-# or
-yarn install
-Start the development server:
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
 
-bash
-Copy code
-npm start
-# or
-yarn start
-Open the application in your browser at:
+3. Start the development server:
+   ```bash
+   npm start
+   # or
+   yarn start
+   
+4. Open the application in your browser at:
+   ```bash
+   http://localhost:3000
 
-arduino
-Copy code
-http://localhost:3000
-Folder Structure
-java
-Copy code
-.
-├── src/
-│   ├── components
-│   ├── context
-│   ├── lib
-│   ├── services
-│   ├── utils
-│   ├── app.js
-│   └── app.css
-├── public
-├── package.json
-└── README.md
-Key Highlights
-Advanced Calendar Logic: Handles month transitions and leap years seamlessly.
-Responsive UI: Optimized for both desktop and mobile devices.
-Code Quality: Modular, clean, and maintainable code with comments for non-trivial logic.
-Future Enhancements
-Integration with a backend to support multi-user event management.
-Addition of recurring event functionality.
-Improved UI animations for drag-and-drop features.
-Author
-Name: Ojas Bhosale
-GitHub: ojasbhosale
-LinkedIn: ojas-bhosale
-yaml
-Copy code
+---
+   
+
+## **Key Highlights**
+
+   - Advanced Calendar Logic: Handles month transitions and leap years seamlessly.
+   - Responsive UI: Optimized for both desktop and mobile devices.
+   - Code Quality: Modular, clean, and maintainable code with comments for non-trivial logic.
+
+---
+
+## **Future Enhancements**
+   - Integration with a backend to support multi-user event management.
+   - Addition of recurring event functionality.
+   - Improved UI animations for drag-and-drop features.
+
+---
+   
+## **Author**
+   - Name: Ojas Bhosale
+   - GitHub: ojasbhosale
+   - LinkedIn: ojas-bhosale
+
