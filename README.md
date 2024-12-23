@@ -52,8 +52,8 @@ The Dynamic Event Calendar Application is a modern, feature-rich calendar app bu
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
-   cd <repository-folder>
+   git clone https://github.com/ojasbhosale/event-calendar-react.git
+   cd event-calendar-react
 
 2. Install dependencies:
    ```bash
